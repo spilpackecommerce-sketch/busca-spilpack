@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Batoque R18",
+    "sku": "410003",
+    "slug": "batoque-r18",
+    "url": "/catalogo-de-produtos/batoque-r18",
+    "categoria": "tampas",
+    "terminacao": "R18",
+    "formato": "",
+    "volumetria_ml": "",
+    "tipo_de_valvula": "Batoque",
+    "image": "https://cdn.prod.website-files.com/68dd5a3ac8a92418e5e080ab/68ffa72859eef6d72fb801ae_Tampa-Batoque-R24-400.003.4547.png"
+  },
+  {
+    "name": "Batoque R24",
+    "sku": "400004",
+    "slug": "batoque-r24",
+    "url": "/catalogo-de-produtos/batoque-r24",
+    "categoria": "tampas",
+    "terminacao": "R24",
+    "formato": "",
+    "volumetria_ml": "",
+    "tipo_de_valvula": "Batoque",
+    "image": "https://cdn.prod.website-files.com/68dd5a3ac8a92418e5e080ab/68ffa72859eef6d72fb801ae_Tampa-Batoque-R24-400.003.4547.png"
+  },
+  {
+    "name": "Batoque R28",
+    "sku": "405001",
+    "slug": "batoque-r28",
+    "url": "/catalogo-de-produtos/batoque-r28",
+    "categoria": "tampas",
+    "terminacao": "R28",
+    "formato": "",
+    "volumetria_ml": "",
+    "tipo_de_valvula": "Batoque",
+    "image": "https://cdn.prod.website-files.com/68dd5a3ac8a92418e5e080ab/68ffa72859eef6d72fb801ae_Tampa-Batoque-R24-400.003.4547.png"
+  },
+  {
+    "name": "Bisnaga Alpha PEBD DM25 15ml",
+    "sku": "9050015001",
+    "slug": "bisnaga-alpha-pebd-dm25-15ml",
+    "url": "/catalogo-de-produtos/bisnaga-alpha-pebd-dm25-15ml",
+    "categoria": "bisnagas-e-frasnagas",
+    "terminacao": "R25",
+    "formato": "",
+    "volumetria_ml": "15",
+    "tipo_de_valvula": "",
+    "image": "https://cdn.prod.website-files.com/68dd5a3ac8a92418e5e080ab/693ff5897dbf0bf4e7caa757_02-bisnaga-alpha-pebd-dm25-15ml-10-uni-s-tampa.webp"
+  },
+  {
+    "name": "Bisnaga Alpha PEBD DM32 30ml",
+    "sku": "9070030001",
+    "slug": "bisnaga-alpha-pebd-dm32-30ml",
+    "url": "/catalogo-de-produtos/bisnaga-alpha-pebd-dm32-30ml",
+    "categoria": "bisnagas-e-frasnagas",
+    "terminacao": "R32",
+    "formato": "",
+    "volumetria_ml": "30",
+    "tipo_de_valvula": "",
+    "image": "https://cdn.prod.website-files.com/68dd5a3ac8a92418e5e080ab/693ff5eab6d9b711504dfb71_02-bisnaga-alpha-pebd-dm32-30-60ml-10-uni-s-tampa.webp"
+  },
+  {
+    "name": "Bisnaga Alpha PEBD DM32 60ml",
+    "sku": "9060060001",
+    "slug": "bisnaga-alpha-pebd-dm32-60ml",
+    "url": "/catalogo-de-produtos/bisnaga-alpha-pebd-dm32-60ml",
+    "categoria": "bisnagas-e-frasnagas",
+    "terminacao": "R32",
+    "formato": "",
+    "volumetria_ml": "60",
+    "tipo_de_valvula": "",
+    "image": "https://cdn.prod.website-files.com/68dd5a3ac8a92418e5e080ab/693ff5eab6d9b711504dfb71_02-bisnaga-alpha-pebd-dm32-30-60ml-10-uni-s-tampa.webp"
+  },
+  {
+    "name": "Clip para Pump",
+    "sku": "24012624415",
+    "slug": "clip-para-pump",
+    "url": "/catalogo-de-produtos/clip-para-pump",
+    "categoria": "valvulas",
+    "terminacao": "",
+    "formato": "",
+    "volumetria_ml": "",
+    "tipo_de_valvula": "",
+    "image": "https://cdn.prod.website-files.com/68dd5a3ac8a92418e5e080ab/6900a258a1537bfa212b1d86_Clip%203.png"
+  },
+  {
+    "name": "Frasco modelo 1 de 100ml",
+    "sku": "3050100001",
+    "slug": "frascos-modelo-1-de-100ml",
+    "url": "/catalogo-de-produtos/frascos-modelo-1-de-100ml",
+    "categoria": "frascos",
+    "terminacao": "20/410",
+    "formato": "Oval",
+    "volumetria_ml": "100",
+    "tipo_de_valvula": "",
+    "image": "https://cdn.prod.website-files.com/68dd5a3ac8a92418e5e080ab/68ff7378ae4e6a188e2ff2b5_68fba670512b60fa3d38b4fa_Frasco-1-100ml-20-410-305.0100.001-branco.webp"
+  },
+  {
+    "name": "Frasco modelo 1 de 140ml",
+    "sku": "3390140001",
+    "slug": "frascos-modelo-1-de-140ml-5",
+    "url": "/catalogo-de-produtos/frascos-modelo-1-de-140ml-5",
+    "categoria": "frascos",
+    "terminacao": "24/410",
+    "formato": "Oval",
+    "volumetria_ml": "140",
+    "tipo_de_valvula": "",
+    "image": "https://cdn.prod.website-files.com/68dd5a3ac8a92418e5e080ab/68ff73792b559913c715eeae_68fba70f5fb4a0f1f5f56ade_Frasco-1-140ml-24-410-339.0140.001-branco.png"
+  },
+  {
+    "name": "Frasco modelo 1 de 140ml",
+    "sku": "3060140001",
+    "slug": "frascos-modelo-1-de-140ml-2",
+    "url": "/catalogo-de-produtos/frascos-modelo-1-de-140ml-2",
+    "categoria": "frascos",
+    "terminacao": "24/415",
+    "formato": "Oval",
+    "volumetria_ml": "140",
+    "tipo_de_valvula": "",
+    "image": "https://cdn.prod.website-files.com/68dd5a3ac8a92418e5e080ab/68ff7378945814c4d856ed5e_68fba688365ab9d1e375be2c_Frasco-1-140ml-24-415-302.0140.001-branco.webp"
+  }
+]
