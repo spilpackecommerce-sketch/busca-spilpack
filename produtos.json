@@ -6148,5 +6148,36 @@
     "compre_junto": null,
     "vitrine": null,
     "sequencia": 4
+  },
+  {
+    "name": "Tampa de alumínio R63",
+    "sku": "427005",
+    "slug": "tampa-de-aluminio-r63",
+    "url": "/catalogo-de-produtos/tampa-de-aluminio-r63",
+    "categoria": "tampas",
+    "terminacao": null,
+    "formato": null,
+    "volumetria_ml": null,
+    "material": null,
+    "peso_g": null,
+    "largura_mm": null,
+    "altura_mm": null,
+    "decoracao": null,
+    "tipo_de_valvula": null,
+    "qtd_caixa": null,
+    "descricao_curta": null,
+    "descricao_longa": null,
+    "image": "https://cdn.prod.website-files.com/68dd5a3ac8a92418e5e080ab/6a3158c91672683a5f04d693_tampa-de-aluminio-r63-428005.jpg",
+    "imagens": [
+      "https://cdn.prod.website-files.com/68dd5a3ac8a92418e5e080ab/6a3158d4b2fd16f62042e2f4_tampa-de-aluminio-r63-428005085.jpg",
+      "https://cdn.prod.website-files.com/68dd5a3ac8a92418e5e080ab/6a3158d81672683a5f04e2cf_tampa-de-aluminio-r63-428005401.jpg",
+      "https://cdn.prod.website-files.com/68dd5a3ac8a92418e5e080ab/6a3158d968fd642051958d9d_tampa-de-aluminio-r63-428005135.jpg",
+      "https://cdn.prod.website-files.com/68dd5a3ac8a92418e5e080ab/6a3158c91672683a5f04d693_tampa-de-aluminio-r63-428005.jpg"
+    ],
+    "cores": "7---dourado; 8---prata; preto",
+    "item_id": "6a314e370626fb0e7c8b25c4",
+    "compre_junto": null,
+    "vitrine": null,
+    "sequencia": null
   }
 ]
