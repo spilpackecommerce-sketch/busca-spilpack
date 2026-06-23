@@ -6198,5 +6198,30 @@
     "compre_junto": null,
     "vitrine": null,
     "sequencia": 1
+  },
+  {
+    "name": "Inserto 50ml R63",
+    "sku": "2190050001",
+    "slug": "inserto-50ml-r63",
+    "url": "/catalogo-de-produtos/inserto-50ml-r63",
+    "categoria": "acessorios",
+    "terminacao": "R63",
+    "formato": "Cilíndrico",
+    "volumetria_ml": "72",
+    "material": "PP",
+    "peso_g": "5.1",
+    "largura_mm": "58.6",
+    "altura_mm": "34.5",
+    "decoracao": null,
+    "tipo_de_valvula": null,
+    "qtd_caixa": 900,
+    "descricao_curta": "Inserto plástico PP 50ml com rosqueamento R63. Reduz o volume interno do pote e garante vedação precisa para cosméticos e farmacêuticos.",
+    "descricao_longa": "<p><strong>Inserto 50ml R63</strong> — inserto cilíndrico em <strong>Polipropileno (PP)</strong> para potes cosméticos e farmacêuticos com rosqueamento R63. Peça interna que reduz a capacidade volumétrica do pote e proporciona vedação superior ao produto.</p><ul><li><strong>Material:</strong> PP (Polipropileno) — inerte, resistente a óleos, emulsões e ativos cosméticos</li><li><strong>Rosqueamento:</strong> R63 — compatível com potes padrão R63 do mercado</li><li><strong>Volume útil:</strong> 50ml</li><li><strong>Dimensões:</strong> 58,6mm de diâmetro × 34,5mm de altura</li><li><strong>Peso:</strong> 5,1g</li><li><strong>Quantidade por caixa:</strong> 900 unidades</li><li><strong>Aplicações:</strong> cremes faciais, pomadas, géis, produtos dermatológicos, cosméticos de alto valor agregado</li></ul><p>O inserto é amplamente utilizado em embalagens de cosméticos premium para garantir que o produto fique concentrado em uma câmara menor, facilitando a retirada com espátula e valorizando a percepção de rendimento pelo consumidor. Também melhora a vedação interna, protegendo formulações sensíveis à oxidação e contaminação.</p><p>Palavras-chave: inserto pote cosmético, inserto R63, inserto PP, redutor volume pote, inserto 50ml, acessório embalagem cosmética, inserto farmacêutico, vedação pote creme.</p>",
+    "image": "https://cdn.prod.website-files.com/68dd5a3ac8a92418e5e080ab/6a3a77d40c8e2925345097cb_Inserto%20-%2050ml%20%5BR63%5D%202190050001055.png",
+    "cores": "branco",
+    "item_id": "6a3a8a0ee214b9cd7d5ff6b7",
+    "compre_junto": null,
+    "vitrine": null,
+    "sequencia": null
   }
 ]
